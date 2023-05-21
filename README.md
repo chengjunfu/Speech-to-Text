@@ -1,6 +1,6 @@
 # Speech-to-Text
 
-For learning purpose.
+For self learning purpose.
 
 https://chrome.google.com/webstore/detail/speech-to-text-voice-reco/kcgloaobfaiejoiahlhnfaolfcifjjho
 https://youtu.be/EUwmpKANW38
